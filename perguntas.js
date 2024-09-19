@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Física',
+    'Quanto tempo a luz do Sol demora para chegar à Terra?',
+    '8 minutos'
+)
+
+criaCartao(
+    'História',
+    ' Qual personagem folclórico costuma ser agradado pelos caçadores com a oferta de fumo?',
+    'Caipora'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
-)
-
-criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Qual a montanha mais alta do Brasil?',
+    'Pico da Neblina'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    ' “It is six twenty" ou "twenty past six”. Que horas são em inglês?',
+    '6:20'
 )
