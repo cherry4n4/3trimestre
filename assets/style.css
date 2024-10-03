@@ -1,11 +1,11 @@
 :root {
-    --text-color: #271ad8;
-    --card-front-color: #8ca7f1;
-    --card-back-color: #0707eb;
+    --text-color: #000000;
+    --card-front-color: #744322;
+    --card-back-color: #000000;
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: url('img/things.webp');
     font-family: Bai Jamjuree;
 }
 
@@ -58,7 +58,7 @@ body {
 
 .cartao__conteudo__resposta p {
     color: var(--card-back-color);
-    font-weight: 700;
+    font-weight: 1000;
 }
 
 .cartao.active .cartao__conteudo {

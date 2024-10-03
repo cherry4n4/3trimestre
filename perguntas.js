@@ -1,23 +1,23 @@
 criaCartao(
-    'Física',
-    'Quanto tempo a luz do Sol demora para chegar à Terra?',
-    '8 minutos'
+    'Stranger things',
+    ' Qual a comida preferida de Eleven?',
+    'Waffles'
 )
 
 criaCartao(
-    'História',
-    ' Qual personagem folclórico costuma ser agradado pelos caçadores com a oferta de fumo?',
-    'Caipora'
+    'Stranger things',
+    ' Qual frase Mike ensina Eleven? ',
+    'Amigos não mentem'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a montanha mais alta do Brasil?',
-    'Pico da Neblina'
+    'Stranger things',
+    ' Quem fica preso no mundo invertido na primeira temporada? ',
+    'Will e Bárbara'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    ' “It is six twenty" ou "twenty past six”. Que horas são em inglês?',
-    '6:20'
+    'Stranger things',
+    '  Qual o nome do irmão de Max? ',
+    'Billy'
 )
