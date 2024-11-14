@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Stranger things',
-    ' Qual frase Mike ensina Eleven? ',
+    ' Qual frase Mike ensina a Eleven? ',
     'Amigos não mentem'
 )
 
